@@ -11,7 +11,6 @@ Routing to a Single Controller Method
 - [ ] Doing ..
 - [X] Not done
 
-<br>
 Route Parameters
 - [ ] Done : tada:
 - [ ] Doing ..
