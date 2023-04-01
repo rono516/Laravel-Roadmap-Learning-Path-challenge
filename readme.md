@@ -7,79 +7,79 @@ I am a Laravel Software developer from Kenya
 ### Beginner Level Topics
 
 Routing to a Single Controller Method
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Route Parameters
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Route Naming
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Route Groups
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Displaying Variables in Blade
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Blade If-Else and Loop Structures
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Layout: @include, @extends, @section, @yield
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Blade Components
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Starter Kits: Breeze (Tailwind) or Laravel UI (Bootstrap)
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Default Auth Model and Access its Fields from Anywhere
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Check Auth in Controller / Blade
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Auth Middleware
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Database Migrations
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Basic Eloquent Model and MVC: Controller -> Model -> View
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Eloquent Relationships: belongsTo / hasMany / belongsToMany
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Eager Loading and N+1 Query Problem
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Route Resource and Resourceful Controllers
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Forms, Validation and Form Requests
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 File Uploads and Storage Folder Basics
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 
@@ -98,115 +98,115 @@ Create Custom Middleware Class
 - [ ] Doing ..
 - [ ] Not done
 Database Seeders and Factories
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Eloquent Query Scopes
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Polymorphic relationships
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Eloquent Accessors and Mutators
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Eloquent Collections
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Soft Deletes
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Authorization: Roles/Permissions, Gates, Policies
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Authorization: Extra Packages - Spatie Permission, Bouncer, etc
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Authentication: Email Verification
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Drivers and Disks, Example of Amazon S3
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Extra Packages: Spatie Medialibrary, Intervention Image, etc
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 API Routes and Controllers
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Working with API Clients: Postman or Alternatives
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 API Eloquent Resources
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 API Auth with Sanctum
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 API Error Handling and Status Codes
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Log Files in Laravel
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Try-Catch and Laravel Exceptions
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Local Debugging Tools: Debugbar, Telescope, Ray
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Customizing Error Pages and Messages
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 (optional) Third Party Bug Trackers: Bugsnag, Flare, Sentry, Rollbar
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Mailables and Mail Facade
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Configure Drivers/Services: Mailgun, Mailtrap, etc
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Notifications System: Email, SMS, Slack, etc.
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 "Smoke" Tests to Check if Pages are Loading
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Configure Testing Database and Test CRUD Operations
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Git Version Control
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Deployment on Live Servers
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 
@@ -219,140 +219,140 @@ Route Caching
 - [ ] Doing ..
 - [ ] Not done
 Rate Limiting
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Invokable controllers
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Model Observers
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Raw Database Queries
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 All Eloquent Features
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Custom Blade Directives
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Events and Listeners
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Laravel HTTP Client and Guzzle
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Login with X: Laravel Socialite
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Creating Artisan Commands
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Task Scheduling
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Caching
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Real-time: Broadcasting, Echo and Pusher
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Queueable Classes and Jobs
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Job Dispatching, Batching and Chaining
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Processing Failed Jobs
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Configuring Queues: Drivers, Redis, Supervisor
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Laravel Horizon (optional, if you use Redis)
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Upload Files via API
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Generate API Documentation
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 API Versioning
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 API with OAuth and Laravel Passport
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Only-API Projects with Front-end like Vue.js / React.js
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Only-API Projects with Mobile Apps
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Laravel Jetstream (requires Livewire/Inertia knowledge)
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Laravel Fortify
 Laravel Cashier with Stripe/Paddle
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Custom Payment Providers: PayPal, Mollie, etc
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 TDD: Test-Driven Development
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Mocking
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 (optional) Laravel Dusk
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Laravel Scout
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Drivers: ElasticSearch, Algolia or MeiliSearch	
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Contributing to Packages, making Pull Requests	
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Create Laravel Packages	
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 
@@ -365,63 +365,63 @@ PHP/Laravel Design Patterns
 - [ ] Not done
 
 Creational Design Patterns	
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Structural Design Patterns	
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Behavioral Design Patterns	
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 SOLID Code	
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Scalable Code	
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Maintainable Code	
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Best Practices and Standards
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done	
 Large Database Structures	
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 NoSQL Solutions	
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Eloquent/SQL Query Optimization	
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Scaling to Multiple Databases	
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Stability and Zero-Downtime Deployments	
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Performance Optimization and Caching	
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Writing Testable Code	
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done
 Continuous Integration and Continuous Delivery (CI/CD)
-- [] Done : tada:
+- [ ] Done : tada:
 - [ ] Doing ..
 - [X] Not done	
 
