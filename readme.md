@@ -2,6 +2,8 @@
 
 I am a Laravel Software developer from Kenya
 
+Laravel road map learning path challenge is an open source initiative to aid laravel developers become seniors by committing to diligently follow [LaravelDaily/Laravel-Roadmap-Learning-Path](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path)
+
 # Road map Checklist
 
 ### Beginner Level Topics
